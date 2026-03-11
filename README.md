@@ -2,7 +2,7 @@
 I am a Computer Science student from Bucharest, Romania
 
 # 🔭 About Me:
-🎓 I’m currently studying at University POLITEHNICA of Bucharest<br>🌱 Learning programming languages: C/C++, Python, Assembly, Java<br>👯 Currently contributing to: OpenCRS(https://github.com/open-crs), diving deep into the codebase, focusing on module integration<br>🛠️ Deepening my knowledge in Adversarial ML, Network Security, and building backends
+🎓 I’m currently studying at University POLITEHNICA of Bucharest<br>🌱 Learning programming languages: C/C++, Python, Assembly, Java<br>👯 Currently contributing to: **[OpenCRS](https://github.com/open-crs)**, diving deep into the codebase, focusing on module integration<br>🛠️ Deepening my knowledge in Adversarial ML, Network Security, and building backends
 
 
 ## 🌐 Socials:
